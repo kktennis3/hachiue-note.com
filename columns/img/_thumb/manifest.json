@@ -1,0 +1,88 @@
+{
+    "templates": [
+        {
+            "id": "water",
+            "base": "water.png",
+            "kinds": [
+                "水やり",
+                "水",
+                "乾"
+            ],
+            "title": {
+                "x": 80,
+                "y": 150,
+                "w": 820,
+                "size": 58,
+                "line_height": 1.4,
+                "color": "#1f2a25",
+                "font": "NotoSansJP-Bold.otf",
+                "align": "left",
+                "max_lines": 4
+            },
+            "sub": {
+                "x": 80,
+                "y": 545,
+                "w": 800,
+                "size": 26,
+                "color": "#2f6b4f",
+                "font": "NotoSansJP-Regular.otf",
+                "text": "ハチウエノート｜観葉植物の育て方ノート"
+            }
+        },
+        {
+            "id": "light",
+            "base": "light.png",
+            "kinds": [
+                "光",
+                "置き場所",
+                "日当たり",
+                "窓"
+            ],
+            "title": {
+                "x": 80,
+                "y": 150,
+                "w": 820,
+                "size": 58,
+                "line_height": 1.4,
+                "color": "#1f2a25",
+                "font": "NotoSansJP-Bold.otf",
+                "align": "left",
+                "max_lines": 4
+            },
+            "sub": {
+                "x": 80,
+                "y": 545,
+                "w": 800,
+                "size": 26,
+                "color": "#2f6b4f",
+                "font": "NotoSansJP-Regular.otf",
+                "text": "ハチウエノート｜観葉植物の育て方ノート"
+            }
+        },
+        {
+            "id": "care",
+            "base": "care.png",
+            "kinds": [],
+            "title": {
+                "x": 80,
+                "y": 150,
+                "w": 820,
+                "size": 58,
+                "line_height": 1.4,
+                "color": "#1f2a25",
+                "font": "NotoSansJP-Bold.otf",
+                "align": "left",
+                "max_lines": 4
+            },
+            "sub": {
+                "x": 80,
+                "y": 545,
+                "w": 800,
+                "size": 26,
+                "color": "#2f6b4f",
+                "font": "NotoSansJP-Regular.otf",
+                "text": "ハチウエノート｜観葉植物の育て方ノート"
+            }
+        }
+    ]
+}

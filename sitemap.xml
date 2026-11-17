@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://hachiue-note.com/</loc>
+  <lastmod>2026-11-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://hachiue-note.com/columns/</loc>
+  <lastmod>2026-11-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://hachiue-note.com/about/</loc>
+  <lastmod>2026-11-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://hachiue-note.com/policy/</loc>
+  <lastmod>2026-11-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://hachiue-note.com/privacy/</loc>
+  <lastmod>2026-11-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+</urlset>
